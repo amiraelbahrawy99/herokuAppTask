@@ -35,7 +35,7 @@ Writing End-to-End automation test for HerokuApp login Page
 * To generate Allure Report:
 1) Open cmd 
 2) Change Directory to be in the root folder of the project "cd path"
-3)Run this command: allure serve allure-results
+3) Run this command: allure serve allure-results
 
 ## Author
 * **Amira El-Bahrawy** - (https://www.linkedin.com/in/amiraelbahrawy99/)
