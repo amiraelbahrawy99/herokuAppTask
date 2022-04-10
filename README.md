@@ -17,15 +17,15 @@ Goal: Writing End-to-End automation test for HerokuApp login Page
 * [Extent Report]
 
 ## Project Design:
-Page Object Model (POM) design pattern
-Behavior Driven Development framework
-Data Driven Development
+* Page Object Model (POM) design pattern
+* Behavior Driven Development framework
+* Data Driven Development
 
 
 ### Running the tests
 
 * ( testng.xml ) can be found in the root path of the project & pass the browserType parameter
-* ( Command Line ): mvn clean test 
+* ( Command Line ):
      mvn clean test -Dbrowser={browserType}
 
 ### Report:
