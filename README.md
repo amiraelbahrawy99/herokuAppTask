@@ -1,7 +1,7 @@
 ## Heroku App - Automation Task
 
 #### Goal
-Goal: Writing End-to-End automation test for HerokuApp login Page
+Writing End-to-End automation test for HerokuApp login Page
 
 ### Prerequisites
 
