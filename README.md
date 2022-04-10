@@ -1,5 +1,6 @@
-# Basic Login Page
+## Heroku App - Automation Task
 
+#### Goal
 Goal: Writing End-to-End automation test for HerokuApp login Page
 
 ### Prerequisites
@@ -15,6 +16,7 @@ Goal: Writing End-to-End automation test for HerokuApp login Page
 * [TestNG] 
 * [Cucumber]
 * [Extent Report]
+* [Allure Report]
 
 ## Project Design:
 * Page Object Model (POM) design pattern
@@ -29,7 +31,11 @@ Goal: Writing End-to-End automation test for HerokuApp login Page
      mvn clean test -Dbrowser={browserType}
 
 ### Report:
-You can check report at "test-output/SparkReport/Spark.html" in the root path of the project
+* You can check Extenet Report at: "test-output/SparkReport/Spark.html" in the root path of the project
+* To generate Allure Report:
+- Open cmd 
+- Change Directory to be in the root folder of the project "cd path"
+- Run this command:  allure serve allure-results
 
 ## Author
 * **Amira El-Bahrawy** - (https://www.linkedin.com/in/amiraelbahrawy99/)
