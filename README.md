@@ -21,7 +21,7 @@ Writing End-to-End automation test for HerokuApp login Page
 ## Project Design:
 * Page Object Model (POM) design pattern
 * Behavior Driven Development framework
-* Data Driven Development
+* Data Driven Development [JSON]
 
 
 ### Running the tests
