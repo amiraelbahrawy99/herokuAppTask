@@ -33,9 +33,9 @@ Writing End-to-End automation test for HerokuApp login Page
 ### Report:
 * You can check Extenet Report at: "test-output/SparkReport/Spark.html" in the root path of the project
 * To generate Allure Report:
-- Open cmd 
-- Change Directory to be in the root folder of the project "cd path"
-- Run this command:  allure serve allure-results
+1) Open cmd 
+2) Change Directory to be in the root folder of the project "cd path"
+3)Run this command: allure serve allure-results
 
 ## Author
 * **Amira El-Bahrawy** - (https://www.linkedin.com/in/amiraelbahrawy99/)
